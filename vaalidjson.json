@@ -1,0 +1,44 @@
+[
+    {
+        "idnum": 1,
+        "name": "Oleh",
+        "age": 17,
+        "city": "kharkiv",
+        "isoflegalage": false,
+    }
+    {
+        "idnum": 2,
+        "name": "Ivan",
+        "age": 17,
+        "city": "Kiyv",
+        "isoflegalage": false,
+    }
+    {
+        "idnum": 3,
+        "name": "Anton",
+        "age": 18,
+        "city": "Kherson",
+        "isoflegalage": true,
+    }
+    {
+        "idnum": 4,
+        "name": "Danya",
+        "age": 20,
+        "city": "Kharkiv",
+        "is_stuisoflegalagedent": true,
+    }
+    {
+        "idnum": 5,
+        "name": "Eugene",
+        "age": 19,
+        "city": "Lviv",
+        "isoflegalage": true,
+    }
+    {
+        "idnum": 6,
+        "name": "Larisa",
+        "age": 17,
+        "city": "Lviv",
+        "isoflegalage": false
+    }
+]

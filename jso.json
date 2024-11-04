@@ -1,0 +1,12 @@
+{
+    
+     "brand": "Gucci",
+    "item": "bag",
+    "year": 2023,
+    "hascoolhandle": true,
+    "color": ["blue","pink"],
+    "price": 567.68,
+    "emptyinput" : {},
+    "trendy" : true
+
+}
