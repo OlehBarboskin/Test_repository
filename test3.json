@@ -1,0 +1,48 @@
+[ 
+     {
+        "model" :"model s" ,
+        "brand" : "tesla"  ,
+        "price" :"79999"   ,
+        "type"  :"electric",
+        "in_stock": true 
+ 
+    },
+    {
+        "model" :"civic" ,
+        "brand" : "honda"  ,
+        "price" :"25000"   ,
+        "type"  :"sedan",
+        "in_stock": true 
+ 
+    },
+    {
+        "model" :"mustang" ,
+        "brand" : "ford"  ,
+        "price" :"55000"   ,
+        "type"  :"sprot",
+        "in_stock": false 
+ 
+    },   {
+        "model" :"camary" ,
+        "brand" : "toyota"  ,
+        "price" :"27000"   ,
+        "type"  :"sedan",
+        "in_stock": true 
+ 
+    },   {
+        "model" :"f-150" ,
+        "brand" : "ford"  ,
+        "price" :"30000"   ,
+        "type"  :"truck",
+        "in_stock": true 
+ 
+    },   {
+        "model" :"leaf" ,
+        "brand" : "nissan"  ,
+        "price" :"23000"   ,
+        "type"  :"electric",
+        "in_stock": falsse
+ 
+    }
+
+]

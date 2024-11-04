@@ -1,0 +1,37 @@
+<cars> 
+     <car> 
+       <model>model s</model>
+       <brand>tesla</brand>
+       <price>80000</price>
+       <type>electric</type>
+     </car> 
+     <car>
+       <model>civic</model>
+       <brand>honda</brand>
+       <price>25000</price>
+       <type>sedan</type>
+    </car> 
+    <car> 
+       <model>mustang</model>
+       <brand>ford</brand>
+       <price>55000</price>
+       <type>sports</type>
+   </car> 
+      <model>f-150</model>
+       <brand>ford</brand>
+       <price>30000</price>
+       <type>truck</type>
+     </car>  
+     </car> 
+      <model>camry</model>
+       <brand>toyota</brand>
+       <price>27000</price>
+       <type>sedan</type>
+     </car> 
+     </car> 
+      <model>leaf</model>
+       <brand>nissan</brand>
+       <price>29000</price>
+       <type>electric</type>
+     </car> 
+</cars>
